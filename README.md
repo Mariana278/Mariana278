@@ -1,7 +1,7 @@
-## Hi👋, I'm Mariana :>
-🔭I study Software Engineering in Afeka College in Tel-Aviv
-💻Coding for fun :3
-🧪 "It's a slow but steady effort. I'm going to beat fantasy with science. This is exhilarating!" ~Senku Ishigami
+## Hi👋, I'm Mariana :><br>
+🔭I study Software Engineering in Afeka College in Tel-Aviv<br>
+💻Coding for fun :3<br>
+🧪 "It's a slow but steady effort. I'm going to beat fantasy with science. This is exhilarating!" ~Senku Ishigami<br>
 
 
 ### My Skill Set:
